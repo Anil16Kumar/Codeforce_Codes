@@ -1,4 +1,5 @@
 # Codeforce_Codes
-Competitive Programming Code 
+Competitive Programming(Codeforce and codechef) Code 
+Data structure and Algorithm codes as well...
 <br>
-Author: Anil Kumar
+Author: Anil Kumar singh
