@@ -6,7 +6,7 @@ import java.util.function.Function;
 import java.util.stream.IntStream;
 
 public class COupleEntry {
-    public static <Consume> void main(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int t=scanner.nextInt();
 
