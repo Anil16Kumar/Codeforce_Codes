@@ -8,15 +8,15 @@ public class BrozeCode {
         Scanner scanner=new Scanner(System.in);
         String code=scanner.next();
 
-        Stack<Character> stk=new Stack<>();
+        Stack<Character> stkack=new Stack<>();
         for(int i=code.length()-1;i>=0;i--)
-            stk.add(code.charAt(i));
+            stkack.add(code.charAt(i));
 
 
         String answer="";
         String temp="";
-        while(!stk.isEmpty()){
-            temp+=stk.pop();
+        while(!stkack.isEmpty()){
+            temp+=stkack.pop();
             if(temp.equals("-.")){
                 answer+="1";
                 temp="";
