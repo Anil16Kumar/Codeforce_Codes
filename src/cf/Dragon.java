@@ -23,3 +23,19 @@ public class Dragon {
         IntStream.range(0,1).forEach(i->perfromTestCases.accept(scanner));
     }
 }
+
+/**
+ *
+ *
+ correct:  z6s3kjG0CSfKuaOSdgZNTY1amF4=
+Noida#5522
+
+ A30072001
+ a30072001
+
+Pcsolo16@anilkumar
+
+Anilkumar16@bn
+
+
+ **/
