@@ -6,9 +6,9 @@ public class map_2 {
     public static void main(String[] args) {
 
         //---------------------------MAP----------------------
-        //Extends nahi karta hai collection ko...ye ek saprate interface hai ye...
+        // Extends nahi karta hai collection ko...ye ek saprate interface hai ye...
         // Keys and values
-        //cannot contains the duplicate keys, each key can map to at most one value
+        // cannot contains the duplicate keys, each key can map to at most one value
         // like a DICTIONARY
 
         //Key-Value Pairs: Each entry in a Map consists of a key and a value.
@@ -131,7 +131,7 @@ public class map_2 {
         //ensure better performance O(log n).
 
 
-        //----------Linked HashMap----------------
+        //----------LinkedHashMap----------------
 
         LinkedHashMap<String,Integer> lhmap=new LinkedHashMap<>();
         //ye hum tab use karte hai jab order matter karta hai, hum jiss order me values to insert karege usi order me values rahegi..

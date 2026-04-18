@@ -1,0 +1,2 @@
+these are the exceptions that are checked at COMPILE time. If some code within a method throws a checked exception, then the method must either handle the exception or it must specify the exception using the throws keyword.
+Example: SQLException, IOException, Interrupted Exception

@@ -11,7 +11,7 @@ public class list_1 {
         //----------------------------LIST-------------------------------
         //list: ordered collection of elements aka sequence, control over where the elements are inserted and can contain DUBLICATE elements
         //list interface can be implemented by several classes -> ArrayList, LinkedList, vector and stack....
-        // i.e, 1.) Order Preservation, 2.) index-based access, 3.) Allows dublicates
+        // i.e, 1.) Order Preservation, 2.) index-based access, 3.) Allows duplicates
         //ArrayList->  Dynamically change the size
 
 
